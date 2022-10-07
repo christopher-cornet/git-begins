@@ -1,5 +1,2 @@
-commandes de push:
-git add -all
-git commit -m
-git push
-git pull
+Créer une branche: git branch nomdelabranche
+Basculer vers une branche: git checkout nomdelabranche
